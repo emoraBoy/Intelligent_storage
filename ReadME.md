@@ -8,9 +8,5 @@
 <img src="demoimage/userimg.png">
 产品管理页面
 <img src="demoimage/productimg.png">
-仓库管理页面
-<img src="demoimage/reposity.png">
-库存管理页面
-<img src="demoimage/stockimg.png">
 日志管理页面
 <img src="demoimage/logimg.png">
